@@ -46,9 +46,3 @@ The models were evaluated on a test set. While standard accuracy was high across
     *   **Specificity (Healthy)**: ~83.8% (Met constraint ≥ 70%)
 
 Detailed results are exported to `output/classification_results.xlsx`.
-
-## 🚀 Usage
-
-1.  Clone the repository.
-2.  Ensure `Dataset2Use_Assignment.xlsx` is in the project root.
-3.  Run the Jupyter Notebook `askisi.ipynb`.
