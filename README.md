@@ -47,14 +47,6 @@ The models were evaluated on a test set. While standard accuracy was high across
 
 Detailed results are exported to `output/classification_results.xlsx`.
 
-## 🛠️ Requirements
-
-To run this project, you need Python and the following libraries:
-
-```bash
-pip install pandas numpy scikit-learn openpyxl
-```
-
 ## 🚀 Usage
 
 1.  Clone the repository.
